@@ -1,3 +1,10 @@
+/*
+Name: Michelle Valdez
+Date: June 2, 2026
+Program Description: This Program as an interactive AI qiuz. It reads through list of questions.
+*/
+
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
